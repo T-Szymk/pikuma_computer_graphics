@@ -1,2 +1,2 @@
-Computer Graphics Programming course from https://github.com/T-Szymk/pikuma_computer_graphics
+Computer Graphics Programming course from https://pikuma.com/courses/learn-3d-computer-graphics-programming
 
