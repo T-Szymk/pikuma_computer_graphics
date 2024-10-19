@@ -104,7 +104,7 @@ void draw_grid_colour_buffer(uint32_t edge_size) {
   
 }
 
-void render_colour_buffer() {
+void render_colour_buffer(void) {
 
   // copy buffer into the texture
   SDL_UpdateTexture(
